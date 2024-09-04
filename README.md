@@ -12,3 +12,8 @@ To learn how to build and deploy full stack applications
 - Deploy: Vercel
 
 <img src="./preview_images/preview.gif" alt="preview" width="600"/>
+
+### Future Addons:
+- Search and filter
+- Infinite Scrool
+- Set up dev deployment along with prod
