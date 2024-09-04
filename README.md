@@ -1,5 +1,6 @@
 # Pantry Tracker
 An application used for inventory managment.
+
 View it live here: https://pantrytracker-kashan-saeeds-projects.vercel.app/
 
 ## Purpose:
