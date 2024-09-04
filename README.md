@@ -7,10 +7,12 @@ View it live here: https://pantrytracker-kashan-saeeds-projects.vercel.app/
 To learn how to build and deploy full stack applications
 
 ## Tech Stack:
-- React framework: Next.js
-- UI: Material-UI
-- Backend database: Firebase Firestore
-- Deploy: Vercel
+| Purpose   | Tool  |
+| --------------- | -------- |
+| React framework |  Next.js |
+| UI |  Material-UI |
+| Backend database |  Firebase Firestore |
+| Deploy |  Vercel |
 
 <img src="./preview_images/preview.gif" alt="preview" width="600"/>
 
