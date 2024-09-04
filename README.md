@@ -11,4 +11,4 @@ To learn how to build and deploy full stack applications
 - Backend database: Firebase Firestore
 - Deploy: Vercel
 
-![preview](./preview_images/preview.gif)
+![preview](./preview_images/preview.gif | width=600)
