@@ -1,10 +1,17 @@
 # Pantry Tracker
-An application used for inventory managment.
+An inventory managment application used to add items, monitor quantities, and remove inventory.\
+I built this to learn how to build and deploy full stack applications.
 
-View it live here: https://pantrytracker-kashan-saeeds-projects.vercel.app/
+Interact with it live here: https://pantrytracker-kashan-saeeds-projects.vercel.app/
 
-## Purpose:
-To learn how to build and deploy full stack applications
+## Features:
+- [x] Adding new Item
+- [x] Changing Quantity
+- [x] Remove Inventory
+- [x] Deployed to Vercel
+- [ ] Search and Filter
+- [ ] Infinite Scrool
+- [ ] Set up development deployment
 
 ## Tech Stack:
 | Purpose   | Tool  |
@@ -15,8 +22,3 @@ To learn how to build and deploy full stack applications
 | Deploy |  Vercel |
 
 <img src="./preview_images/preview.gif" alt="preview" width="600"/>
-
-### Future Addons:
-- Search and filter
-- Infinite Scrool
-- Set up dev deployment along with prod
