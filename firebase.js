@@ -9,11 +9,10 @@ import { getFirestore } from 'firebase/firestore';
 const firebaseConfig = {
   apiKey: `${process.env.FIREBASE_API_KEY}`,
   authDomain: `${process.env.FIREBASE_AUTH_DOMAIN}`,
-  projectId: "pantry-tracker-9b88e",
-  storageBucket: "pantry-tracker-9b88e.appspot.com",
-  messagingSenderId: "606170839872",
-  appId: "1:606170839872:web:370bc759b40d07252c98a5",
-  measurementId: "G-12M3D4TVBP"
+  projectId: "pantry-tracker-4656e",
+  storageBucket: "pantry-tracker-4656e.appspot.com",
+  messagingSenderId: "830441616195",
+  appId: "1:830441616195:web:5aab6ba087171d54b335f6"
 };
 
 // Initialize Firebase
