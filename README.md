@@ -13,6 +13,8 @@ Interact with it live here: https://pantrytracker-kashan-saeeds-projects.vercel.
 - [ ] Infinite Scrool
 - [ ] Set up development deployment
 
+<img src="./preview_images/preview.gif" alt="preview" width="600"/>
+
 ## Tech Stack:
 | Purpose   | Tool  |
 | --------------- | -------- |
@@ -20,5 +22,3 @@ Interact with it live here: https://pantrytracker-kashan-saeeds-projects.vercel.
 | UI |  Material-UI |
 | Backend database |  Firebase Firestore |
 | Deploy |  Vercel |
-
-<img src="./preview_images/preview.gif" alt="preview" width="600"/>
