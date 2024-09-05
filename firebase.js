@@ -12,8 +12,8 @@ const firebaseConfig = {
   projectId: "pantry-tracker-9b88e",
   storageBucket: "pantry-tracker-9b88e.appspot.com",
   messagingSenderId: "606170839872",
-  appId: "1:606170839872:web:202a22e14dabceb62c98a5",
-  measurementId: "G-3LKP05E5RQ"
+  appId: "1:606170839872:web:370bc759b40d07252c98a5",
+  measurementId: "G-12M3D4TVBP"
 };
 
 // Initialize Firebase
